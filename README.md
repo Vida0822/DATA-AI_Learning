@@ -4,23 +4,29 @@
 머신러닝, 딥러닝 공부용 레포지토리
 
 ## Data Analysis 
-* 통계 및 데이터 분석 이론 정리
+통계 및 데이터 분석 이론 정리
+<br> 
 
-### Data Analysis in Econometrics (계량경제학 및 데이터분석) 
-> 2024-상반기 학교 수업 (원어 진행)
+### Statistics 
+> 2024-상반기 학교 수업 :Data Analysis in Econometrics (계량경제학 및 데이터분석) 
   
 1. Causal Realationship & Data Types [[링크]](https://vida0822.github.io/data/ai/Data_Regression1/) <br>
    : Randomized-Control-Experiment, cross-sectional, time-series, panel, period-cross section
 2. Basic Statistics : Estimation, Hypothesis [[링크]](https://vida0822.github.io/data/ai/Data_Regression2/) <br>
 : Population, Parameter, Sample, Estimator,significance level, null hypothesis, alternative hypothesis, p-value, t-statistic, correlation
-3. Linear Regression : Single Regresssor(Modeling) [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
+3. Linear Regression : **Single Regresssor (Modeling)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
 : Linear Regression Model, Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier
-4. Linear Regression : Single Regresssor(Test) [[링크]](https://vida0822.github.io/data/ai/Data_Regression4/) <br> 
-: Linear Regression Model, Coefficient, heteroskedasticity, homoscedasticity, Dummy Variable(X), SER
-6. 
+4. Linear Regression : **Single Regresssor (Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression4/) <br> 
+: Linear Regression Model, Coefficient, P-value, T-statistics, Significance Level, Standard Error, heteroskedasticity, homoscedasticity, Dummy Variable(X), SER
+5. Linear Regression : **Multiple Regressor (Modeling)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression5/) <br>
+: Linear Regression Model, Multi Regressor, Omitted Variable Bias, Perfect multicollinearity, Imperfect multicollinearity, Dummy Variable Trap
+6. Linear Regression : **Multiple Regressor (Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression6/) <br>
+: Linear Regression Model, Multi Regressor, Joint Hypothesis, Single Restriction, Multi Restriction, F-statistic, Sensitivity Check
 <br>
 
-### ADSP 
+### Data Analysis 
+> ADSP 자격증 학습 내용
+
 
 <br> <br> 
 
