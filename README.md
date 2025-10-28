@@ -4,14 +4,17 @@
 머신러닝, 딥러닝 공부용 레포지토리
 
 ## Data Analysis 
-> 통계 및 데이터 분석 이론 정리
+* 통계 및 데이터 분석 이론 정리
 
 ### Data Analysis in Econometrics (계량경제학 및 데이터분석) 
-* 2024-상반기 학교 수업 (원어 진행)
+> 2024-상반기 학교 수업 (원어 진행)
   
-1. [Causal Realationship & Data Types](https://vida0822.github.io/data/ai/Data_Regression1/)
-2. [Statistics : Estimation, Hypothesis](https://vida0822.github.io/data/ai/Data_Regression2/)
-3. 
+1. Causal Realationship & Data Types [[링크]](https://vida0822.github.io/data/ai/Data_Regression1/) <br>
+   : Randomized-Control-Experiment, cross-sectional, time-series, panel, period-cross section
+2. Basic Statistics : Estimation, Hypothesis [[링크]](https://vida0822.github.io/data/ai/Data_Regression2/) <br>
+: Population, Parameter, Sample, Estimator,significance level, null hypothesis, alternative hypothesis, p-value, t-statistic, correlation
+3. Linear Regression : Single Regresssor [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
+: Linear Regression Model, Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier 
 <br>
 
 ### ADSP 
