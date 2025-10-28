@@ -6,8 +6,12 @@
 ## Data Analysis 
 > 통계 및 데이터 분석 이론 정리
 
-### Econometrics (계량 경제학) 
-
+### Data Analysis in Econometrics (계량경제학 및 데이터분석) 
+* 2024-상반기 학교 수업 (원어 진행)
+  
+1. [Causal Realationship & Data Types](https://vida0822.github.io/data/ai/Data_Regression1/)
+2. [Statistics : Estimation, Hypothesis](https://vida0822.github.io/data/ai/Data_Regression2/)
+3. 
 <br>
 
 ### ADSP 
