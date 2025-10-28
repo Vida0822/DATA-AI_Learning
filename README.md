@@ -13,8 +13,11 @@
    : Randomized-Control-Experiment, cross-sectional, time-series, panel, period-cross section
 2. Basic Statistics : Estimation, Hypothesis [[링크]](https://vida0822.github.io/data/ai/Data_Regression2/) <br>
 : Population, Parameter, Sample, Estimator,significance level, null hypothesis, alternative hypothesis, p-value, t-statistic, correlation
-3. Linear Regression : Single Regresssor [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
-: Linear Regression Model, Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier 
+3. Linear Regression : Single Regresssor(Modeling) [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
+: Linear Regression Model, Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier
+4. Linear Regression : Single Regresssor(Test) [[링크]](https://vida0822.github.io/data/ai/Data_Regression4/) <br> 
+: Linear Regression Model, Coefficient, heteroskedasticity, homoscedasticity, Dummy Variable(X), SER
+6. 
 <br>
 
 ### ADSP 
