@@ -1,11 +1,19 @@
-# MachinLearning & DeepLearning 
+# DATA & AI Learning 
 <br>
 <img src = "https://github.com/Vida0822/Algorithm_Study/assets/132312673/3bd4c17a-42ec-4fab-b50b-949852cdc08d" width = "200"></img><br>
 머신러닝, 딥러닝 공부용 레포지토리
 
+## Data Analysis 
+> 통계 및 데이터 분석 이론 정리
+
+### Econometrics (계량 경제학) 
+
+<br> 
+### ADSP 
+
 <br> <br> 
 
-## MachinLearning
+## MachinLearning 
 데이터 세트를 바탕으로 규칙을 스스로 찾아낸다 <br>
 : 데이터를 바탕으로 사용자가 지정한 알고리즘을 사용해 규칙을 스스로 찾아내여 모델을 구축하고, 해당 모델을 바탕으로 이후의 입력 데이터의 정답을 예측한다.  <br>
  <br>
