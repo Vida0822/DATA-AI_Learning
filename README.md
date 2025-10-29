@@ -15,13 +15,15 @@
 2. Basic Statistics : Estimation, Hypothesis [[링크]](https://vida0822.github.io/data/ai/Data_Regression2/) <br>
 : Population, Parameter, Sample, Estimator,significance level, null hypothesis, alternative hypothesis, p-value, t-statistic, correlation
 3. Linear Regression : **Single Regresssor (Modeling)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression3/) <br>
-: Linear Regression Model, Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier
+: Linear Regression Model, OLS(Ordinary Least Squares), Coefficient, Error Term, Residual, R-Square, Three Assumptions, Mean Zero, IID(Identically Distributed), Outlier
 4. Linear Regression : **Single Regresssor (Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression4/) <br> 
 : Linear Regression Model, Coefficient, P-value, T-statistics, Significance Level, Standard Error, heteroskedasticity, homoscedasticity, Dummy Variable(X), SER
 5. Linear Regression : **Multiple Regressor (Modeling)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression5/) <br>
 : Linear Regression Model, Multi Regressor, Omitted Variable Bias, Perfect multicollinearity, Imperfect multicollinearity, Dummy Variable Trap
 6. Linear Regression : **Multiple Regressor (Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression6/) <br>
 : Linear Regression Model, Multi Regressor, Joint Hypothesis, Single Restriction, Multi Restriction, F-statistic, Sensitivity Check
+7. NonLinear Regression : **Polynomials & Logarithmic & Interaction Term (Modeling & Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression7/)
+: NonLinear Regression Model, Polynomials, Logarithmic, Interaction Term 
 <br>
 
 ### Data Analysis 
