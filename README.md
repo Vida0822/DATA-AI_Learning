@@ -25,7 +25,9 @@
 7. NonLinear Regression : **Polynomials & Logarithmic & Interaction Term (Modeling & Test)** [[링크]](https://vida0822.github.io/data/ai/Data_Regression7/) <br> 
 : NonLinear Regression Model, Polynomials, Logarithmic, Interaction Term
 8. Validity : **Internal Validity(biases) & External Validity** [[링크]](https://vida0822.github.io/data/ai/Data_Regression8/) <br>
-: Internal Validity, External Validity, Omitted Variable Bias, Wrong Functional Form, Errors in Variable bias, Sample Selection Bias, Simultaneous Causality Bias 
+: Internal Validity, External Validity, Omitted Variable Bias, Wrong Functional Form, Errors in Variable bias, Sample Selection Bias, Simultaneous Causality Bias
+9. Binary Dependent Variable : Linear Probability Model & Probit / Logit Regression [[링크]](https://vida0822.github.io/data/ai/Data_Regression9/) <br>
+: Limited Depent Vairable, Linear Probabiity Model, Probit, Logit, pdf, cdf, MLE(maximum likelihood estimator) 
 <br>
 
 ### Data Analysis 
