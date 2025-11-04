@@ -30,6 +30,9 @@
 : Limited Depent Vairable, Linear Probabiity Model, Probit, Logit, pdf, cdf, MLE(maximum likelihood estimator)
 10. Extimation : Experiment and Randomization [[링크]](https://vida0822.github.io/data/ai/Data_Regression10/) <br>
 : Causal Effect, Potential Outcome, Randomization Based On Covaities, Imperpect Randimization, Partial Compliance, Attrition, Experimenter Bias, Estimated Effect, Conditional Mean Independence
+11. ForeCasting [[링크]](https://vida0822.github.io/data/ai/Data_Regression11/) <br>
+: Forecasting, Time Series Data, Lags,Autocorrelation, STationarity, Forecast Error, MSFE, AutoRegression
+
 
 ### Data Analysis 
 > ADSP 자격증 학습 내용
