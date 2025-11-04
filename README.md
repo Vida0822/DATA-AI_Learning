@@ -27,8 +27,9 @@
 8. Validity : **Internal Validity(biases) & External Validity** [[링크]](https://vida0822.github.io/data/ai/Data_Regression8/) <br>
 : Internal Validity, External Validity, Omitted Variable Bias, Wrong Functional Form, Errors in Variable bias, Sample Selection Bias, Simultaneous Causality Bias
 9. Binary Dependent Variable : Linear Probability Model & Probit / Logit Regression [[링크]](https://vida0822.github.io/data/ai/Data_Regression9/) <br>
-: Limited Depent Vairable, Linear Probabiity Model, Probit, Logit, pdf, cdf, MLE(maximum likelihood estimator) 
-<br>
+: Limited Depent Vairable, Linear Probabiity Model, Probit, Logit, pdf, cdf, MLE(maximum likelihood estimator)
+10. Extimation : Experiment and Randomization [[링크]](https://vida0822.github.io/data/ai/Data_Regression10/) <br>
+: Causal Effect, Potential Outcome, Randomization Based On Covaities, Imperpect Randimization, Partial Compliance, Attrition, Experimenter Bias, Estimated Effect, Conditional Mean Independence
 
 ### Data Analysis 
 > ADSP 자격증 학습 내용
