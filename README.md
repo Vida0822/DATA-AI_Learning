@@ -38,6 +38,7 @@
 ### Data Analysis 
 > ADSP 자격증 학습 내용
 
+1. [데이터 분석 개요](https://vida0822.github.io/data/ai/Data_Anaysis1/)
 
 
 <br> <br> 
