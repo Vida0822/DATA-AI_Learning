@@ -5,7 +5,8 @@
 
 ## Data Analysis 
 통계 및 데이터 분석 이론 정리
-<br> 
+
+<br>
 
 ### Statistics 
 > 2024-상반기 학교 수업 :Data Analysis in Econometrics (계량경제학 및 데이터분석) 
