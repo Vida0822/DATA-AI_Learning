@@ -42,8 +42,9 @@
 1. 데이터 분석 개요 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis1/)
 2. R 시작하기 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis2/) / [[코드 1: R 기본]](https://github.com/Vida0822/R_practice/blob/9e07d042df20ea593ecd5ec0523817e10424b83b/01_hello%20R.R) / [[코드2: Vector & DataFrame]](https://github.com/Vida0822/R_practice/blob/9e07d042df20ea593ecd5ec0523817e10424b83b/02_Vector%26DataFrame.R) 
 3. 통계 복습 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis3/)
-4. 상관 분석 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis4/) / [[코드 : Correlation Analysis.R](https://github.com/Vida0822/R_practice/blob/9e07d042df20ea593ecd5ec0523817e10424b83b/03_Correlation%20Analysis.R) 
-
+4. 상관 분석 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis4/) / [[코드 : Correlation Analysis.R]](https://github.com/Vida0822/R_practice/blob/9e07d042df20ea593ecd5ec0523817e10424b83b/03_Correlation%20Analysis.R) 
+5. 회귀 분석 [[개념 정리]](https://vida0822.github.io/data/ai/Data_Anaysis5/) / [[코드 1:]]() /
+[[코드 2:]]() 
 
 <br> <br> 
 
